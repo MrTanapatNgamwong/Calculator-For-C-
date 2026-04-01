@@ -18,7 +18,7 @@ A simple command-line calculator written in C that supports four basic arithmeti
 
 ```
 calculator/
-└── main.c       # Main source file containing all functions and logic
+└── program.c       # Main source file containing all functions and logic
 ```
 
 ---
